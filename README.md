@@ -7,7 +7,7 @@
 1. Shopping cart.
 2. Payment.
 3. Like!
-4. ThumbDown.
+4. Thumb down.
 
 # Hotfix
 1. Fix unable to continue to 'payment' page.
